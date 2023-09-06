@@ -1,3 +1,5 @@
+import Shots from "../assets/Screenshot (2).png";
+
 const Affiliate = () => {
   return (
     <>
@@ -32,11 +34,49 @@ const Affiliate = () => {
           </h2>
           <h3>
             Digital products are online products that are like books , courses
-            and the likes. Now to answer the question how do i get this product,
-            apps like stakecut digistem provide product for you to promote and
-            they are free you don't need to pay for registration
+            and the so on, things cannot touch. Now to answer the question how
+            do i get this product, apps like stakecut, digistem, sellar provide
+            products for you to sell and get commisions on your sale , they are
+            free you don't need to pay for registration
           </h3>
         </div>
+        <img src={Shots} alt="" />
+        <h2>
+          As you can see in the picture above this are examples of products you
+          can sell, and you also see a commision , that is the amount that you
+          get paid from selling the product. For the UAMP the product is $50 and
+          you get 50% commision, that is 25 dollars for each sale you make. they
+          are many products you can promote on the site, all cannot be explained
+          on this site. So therefore i am recommending the best affiliate
+          marketing course that talks about everything about affiliate marketing
+          and even more.
+        </h2>
+        <h2
+          style={{
+            color: "red",
+          }}
+        >
+          To get this course send me a message on whatsapp, click the button
+          below to do that.
+        </h2>
+        <button>
+          <a href="https://wa.me/2347065142095">Click me!</a>
+        </button>
+        <h2>
+          When i receive the message i'd send the course outline and what you
+          will benefit from this course,{" "}
+          <span
+            style={{
+              color: "red",
+            }}
+          >
+            Also this course cost a fee to access it and to get all it's value.
+          </span>
+        </h2>
+        <h1>
+          Let me brief you about the maker of this course (i also used this
+          course to start off so i know it's value)
+        </h1>
       </main>
     </>
   );
