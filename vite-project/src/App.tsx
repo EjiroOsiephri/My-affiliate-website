@@ -2,6 +2,7 @@ import Header from "./components/Header";
 import Body from "./components/Body";
 import "./index.css";
 import Affiliate from "./components/Affiliate";
+import Testimonials from "./components/Testimonials";
 function App() {
   return (
     <>
@@ -9,6 +10,7 @@ function App() {
         <Header />
         <Body />
         <Affiliate />
+        <Testimonials />
       </div>
     </>
   );
