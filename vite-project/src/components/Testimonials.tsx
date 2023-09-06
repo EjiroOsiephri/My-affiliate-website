@@ -62,6 +62,8 @@ const Testimonials = () => {
 
           <h2>
             The ball is in your court,it cannot be predetermined by anybody.
+            Don't worry i have a lot of bonuses for you when you get the
+            programme.
           </h2>
         </div>
         <button>
