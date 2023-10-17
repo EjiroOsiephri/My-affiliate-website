@@ -47,24 +47,78 @@ const Affiliate = () => {
           get paid from selling the product. For the UAMP the product is $50 and
           you get 50% commision, that is 25 dollars for each sale you make. they
           are many products you can promote on the site, all cannot be explained
-          on this site. So therefore i am recommending the best affiliate
-          marketing course that talks about everything about affiliate marketing
-          and even more.
+          on this site.
+          <span>
+            So therefore i am recommending the best affiliate marketing course
+            that talks about everything about affiliate marketing and even more.
+          </span>
         </h2>
+        <section className="testimonial-section">
+          <h1>
+            The maker off the course you are about to access is Nwanneka Caleb
+          </h1>
+          <h2>
+            He is the top Affiliate marketer in Nigeria, he shared his
+            experience how he was scammed in 2018 and how he came across
+            Affiliate marketing. As a top affiliate with a lot of experience he
+            created a course sharing all the secrets about affiliating. He has
+            gone to many countries and all his students including myself are
+            making it big in the business.
+            <span
+              style={{
+                color: "red",
+                fontStyle: "oblique",
+              }}
+            >
+              Below are the testimonials of all those that have used the course
+              and what they have gained.
+            </span>
+          </h2>
+        </section>
+        <h2>
+          You might be wondering what will i get from these course.All what you
+          will get are listed below
+        </h2>
+        <div>
+          <ul>
+            <li>The Secret Affiliate Hexagon Model </li>
+            <li>Most profitable niches and sub-niches </li>
+            <li> Millionaire products and offer </li>
+            <li> Organic secrets to market your offers </li>
+            <li>
+              Building your funnels (Opt-in, squeeze pages, OTO funnel pages)
+            </li>
+            <li>
+              Getting your domain and hosting very cheap Install WordPress and
+              Start building with Elementor
+            </li>
+            <li> Setting Up Automation </li>
+            <li> Email marketing genius marketing secrets </li>
+            <li>
+              How to write copies that convert to sales (landing page, emails,
+              ads) Driving Crazy traffic that wins
+            </li>
+            <li> Facebook ads secrets </li>
+            <li> How to close sales on whatsapp </li>
+            <li>Organic blog ranking for sales </li>
+            <li> Youtube Ads Secrets </li>
+          </ul>
+        </div>
         <h2
           style={{
             color: "red",
           }}
         >
-          To get this course send me a message on whatsapp, click the button
-          below to do that.
+          To get this course click the button below to do that, You will be
+          taken to the product page where you will see the wonders behind the
+          AMAP course.
         </h2>
         <button>
-          <a href="https://wa.me/2347065142095">Click me!</a>
+          <a href="https://aff.stakecut.com/611264/7231729">Click me!</a>
         </button>
         <h2>
           When i receive the message i'd send the course outline and what you
-          will benefit from this course,{" "}
+          will benefit from this course,
           <span
             style={{
               color: "red",

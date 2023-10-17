@@ -1,5 +1,5 @@
-import Ejiro from "../assets/ejiro.jpg";
 import "../index.css";
+import Ejiro from "../assets/photo_2023-09-09_13-03-33.jpg";
 
 const Header = () => {
   return (

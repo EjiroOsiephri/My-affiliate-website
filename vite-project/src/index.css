@@ -154,6 +154,10 @@ button a {
   font-weight: 500;
   margin-top: 0.6em;
 }
+li {
+  margin-bottom: 1em;
+  margin-top: 1em;
+}
 img {
   width: 350px;
 }

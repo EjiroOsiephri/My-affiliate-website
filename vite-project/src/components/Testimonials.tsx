@@ -5,28 +5,6 @@ const Testimonials = () => {
   return (
     <>
       <main className="testimonial-main">
-        <section className="testimonial-section">
-          <h1>
-            The maker off the course you are about to access is Nwanneka Caleb
-          </h1>
-          <h2>
-            He is the top Affiliate marketer in Nigeria, he shared his
-            experience how he was scammed in 2018 and how he came across
-            Affiliate marketing. Has a top affiliate with a lot of experience he
-            created a course sharing all the secrets about affiliating. He has
-            gone to many countries and all his students including myself are
-            making it big in the business.{" "}
-            <span
-              style={{
-                color: "red",
-                fontStyle: "oblique",
-              }}
-            >
-              Below are the testimonials of all those that have used the course
-              and what they have gained.
-            </span>
-          </h2>
-        </section>
         <img src={TEST} alt="" />
         <h2
           style={{
@@ -61,14 +39,31 @@ const Testimonials = () => {
           </h2>
 
           <h2>
-            The ball is in your court,it cannot be predetermined by anybody.
+            <span
+              style={{
+                color: "red",
+              }}
+            >
+              The ball is in your court,it cannot be predetermined by anybody.
+            </span>
             Don't worry i have a lot of bonuses for you when you get the
             programme.
           </h2>
+          <h2>Click the Button below now to get access to your course</h2>
         </div>
         <button>
-          <a href="https://wa.me/2347065142095">Click me!</a>
+          <a href="https://aff.stakecut.com/611264/7231729">Get Started!</a>
         </button>
+        <h1
+          style={{
+            color: "red",
+            fontWeight: "500",
+          }}
+        >
+          If you have any questions contact me on whatsapp by clicking the link
+          below
+        </h1>
+        <a href="https://wa.me/2347065142095">contact me on whatsapp</a>
       </main>
     </>
   );
